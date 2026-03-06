@@ -18,8 +18,12 @@ Google Colab
 - Created visualizations to analyze purchase behavior
 
 ## Visualizations
-- Purchase hour distribution histogram
-- Purchase hour boxplot
+
+### Purchase Hour Distribution
+![Histogram](purchase_hour_histogram.png)
+
+### Purchase Hour Boxplot
+![Boxplot](purchase_hour_boxplot.png)
 
 ## Key Insight
 Missing values were primarily associated with cancelled or incomplete orders rather than data entry errors.
